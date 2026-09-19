@@ -22,4 +22,5 @@
 ├── README.md
 └── requirements.txt
 
-<img width="875" height="632" alt="Screenshot 2026-09-19 013248" src="https://github.com/user-attachments/assets/cfb96852-d025-4daf-b6a7-815e2eb36629" />
+
+<img width="875" height="632" alt="Screenshot 2026-09-19 013248" src="https://github.com/user-attachments/assets/2eeb5e2d-fa51-4ccc-aadb-10b964fbcf69" />
